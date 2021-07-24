@@ -4,7 +4,9 @@ Convert *5V (from microUSB)* to various *positive and negative voltages* (for **
 
 ![ ](5V_to_everything.png)
 
-## Setting and Usage
+## Low cost version
+
+### Setting and Usage
 
 Most smartphone chargers can convert 220VAC to 5VDC. With this "5V_to_every" converter, electronic engineers can easily get a positive and negative voltage source, which has an **output voltage from ±5V to ±24V** using their smartphone chargers.
 
@@ -27,3 +29,8 @@ For example, if you want a ±10V voltage source:
 That means you should replace R1 with a 7.1kΩ resistor.
 
 I also recommend you to replace R1 with a **potentiometer (20kΩ)**, so you can adjust the output voltage directly by hand, and reuse this voltage source in different projects, even when they demand different voltages.
+
+## Planned versions
+
+- Minimum size version with microUSB
+- Minimum size version with typeC
