@@ -2,7 +2,7 @@
 
 Convert *5V (from microUSB)* to various *positive and negative voltages* (for **small currents** only) at low cost with the TPS61040.
 
-![ ](img/5V_to_everything.png)
+![ ](img/Assembly_min_size_microUSB.png)
 
 ## Low cost version
 
@@ -30,7 +30,12 @@ That means you should replace R1 with a 7.1kΩ resistor.
 
 I also recommend you to replace R1 with a **potentiometer (20kΩ)**, so you can adjust the output voltage directly by hand, and reuse this voltage source in different projects, even when they demand different voltages.
 
+## Minimum size version with microUSB
+
+min_size_microUSB is a minimum size version of 5V_to_everything.
+
+Size of min_size_microUSB[mm]: **14 x 10 x 6**
+
 ## Planned versions
 
-- Minimum size version with microUSB
 - Minimum size version with typeC
